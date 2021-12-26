@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Developer.</h3>
 
 
-* :ramen:  I'm recently graduated Hack Reactors Software Engineer Immersive Boot Camp. 
+* :ramen:  I recently graduated Hack Reactors Software Engineer Immersive Boot Camp. 
 * :leaves:  Currently on the job hunt.
 * 🥊  Learning everyday.
 
