@@ -1,9 +1,9 @@
 # Hi 👋, I'm Randall.
 ## I'm a Full Stack Developer.
 
-* :ramen:  I recently graduated Hack Reactors Software Engineer Immersive Boot Camp and I love ramen.  
-* :leaves:  Currently on the job hunt.
-* 🥊  Learning everyday.
+* 💻 Developer at FinalForms.
+* 🥊 Currently learning Ruby and Ruby on Rails.
+* :ramen: I like ramen.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
