@@ -1,5 +1,4 @@
-# Hi 👋, I'm Randall.
-## I'm a Full Stack Developer.
+# Hi 👋, I'm Randall - Full Stack Developer.
 
 * 💻 Developer at FinalForms.
 * 🥊 Currently learning Ruby and Ruby on Rails.
