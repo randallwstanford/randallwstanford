@@ -1,8 +1,6 @@
 # Hi 👋, I'm Randall - Full Stack Developer.
 
 * 💻 Developer at FinalForms.
-* 🥊 Currently learning Ruby and Ruby on Rails.
-* :ramen: I like ramen.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
