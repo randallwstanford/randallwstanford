@@ -37,9 +37,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## Contact 
-- 📫 randallwstanford@gmail.com | https://www.linkedin.com/in/randallstanford/
-- 💻 Check out my portfolio here: https://randy-dev.netlify.app/
 
 ## Stats
  <img width="46%"  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=randallwstanford&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
