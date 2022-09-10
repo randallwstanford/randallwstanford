@@ -16,7 +16,7 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Ruby-on-Rails](https://img.shields.io/badge/rubyonrails-870F0F?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Astro](https://img.shields.io/badge/rubyonrails-870F0F?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-561E8C?style=for-the-badge&logo=astro&logoColor=white)
 
 ## Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
