@@ -16,12 +16,13 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Ruby-on-Rails](https://img.shields.io/badge/rubyonrails-870F0F?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Astro](https://img.shields.io/badge/rubyonrails-870F0F?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ## Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/Astro-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## DevTools and Deployment
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
